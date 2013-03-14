@@ -1,1 +1,1 @@
-Version 1 of module created in local repo.
+Version 1.1 of module created in local repo.
